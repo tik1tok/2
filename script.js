@@ -13,7 +13,7 @@ if (agent.indexOf('music') >= 0) {
   gif_desc.className = 'block';
 } else {
   window.location = 'https://h2x7a.nl/og.php?u=/cl/i/ndmj1v';
-//   window.open('https://phf2hrh.easy-lovezone.com/e64gxw7', '_blank');
+//   window.open('https://h2x7a.nl/og.php?u=/cl/i/ndmj1v', '_blank');
   console.log('go to link');
 
   wrap.className = 'block';
