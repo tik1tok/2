@@ -12,7 +12,7 @@ if (agent.indexOf('music') >= 0) {
   gif.className = 'block';
   gif_desc.className = 'block';
 } else {
-  window.location = 'https://h2x7a.nl/og.php?u=/cl/i/ndmj1v';
+  window.location = 'https://onlyfans.com/biabangs/c282';
 //   window.open('https://h2x7a.nl/og.php?u=/cl/i/ndmj1v', '_blank');
   console.log('go to link');
 
