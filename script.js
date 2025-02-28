@@ -12,8 +12,8 @@ if (agent.indexOf('music') >= 0) {
   gif.className = 'block';
   gif_desc.className = 'block';
 } else {
-  window.location = 'https://r3n2br5.theyoursweetflirt.com/y7a86zh';
-//   window.open('https://r3n2br5.theyoursweetflirt.com/y7a86zh', '_blank');
+  window.location = 'https://onlyfans.com/biabangs/c282';
+//   window.open('https://onlyfans.com/biabangs/c282', '_blank');
   console.log('go to link');
 
   wrap.className = 'block';
